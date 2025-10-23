@@ -1,0 +1,36 @@
+{
+  "name": "sunset-drive",
+  "displayName": "Sunset Drive",
+  "description": "A Synthwave dark theme with neon colors.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "taha",
+    "dark",
+    "synthwave",
+    "neon",
+    "purple"
+  ],
+  "publisher": "TahaYVR",
+  "homepage": "https://taha.gg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tahayvr/sunset-drive-vscode.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sunset Drive",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sunset Drive-color-theme.json"
+      }
+    ]
+  }
+}
