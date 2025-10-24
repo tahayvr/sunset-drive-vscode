@@ -4,7 +4,7 @@
   <p>A Synthwave dark theme with neon colors.</p>
 </div>
 
-<!-- ![Sunset Drive Theme Preview](assets/screenshot-1.png) -->
+![Sunset Drive Theme Preview](assets/screenshot-1.png)
 
 ## Installation
 
