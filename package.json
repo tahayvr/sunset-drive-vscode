@@ -2,7 +2,7 @@
   "name": "sunset-drive",
   "displayName": "Sunset Drive",
   "description": "A Synthwave dark theme with neon colors.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "engines": {
     "vscode": "^1.105.0"
