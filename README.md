@@ -10,6 +10,12 @@
 
 [Sunset Drive on VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=TahaYVR.sunset-drive)
 
+[Sunset Drive on Open VSX Registry](https://open-vsx.org/extension/TahaYVR/sunset-drive)
+
+## Other Platforms
+
+[Sunset Drive for Zed Editor](https://zed.dev/extensions/sunset-drive)
+
 ## License
 
 MIT
